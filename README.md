@@ -5,3 +5,11 @@
 - using the <u>Sieve of Eratosthenes</u> we can then loop over the numbers generated from EntropyGen and finds all prime and non prime numbers and places them into individual counts
 - using the values gathered from the prime functions along with EntropyGen(), we can multiply, add, divide, square, really do whatever we want to generate seeds and use those seeds to generate values.
 - Win
+
+
+
+
+
+
+
+I have no idea whether this is actually effective entropy or not and I do believe most of these values can be easily retrieved but I haven't coded C++ in a couple years so I just decided to do this.
